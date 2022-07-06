@@ -83,3 +83,22 @@
     padding-left: 20px;
     background-color: cornflowerblue;
 }
+
+.flexible-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width-img {
+    width: 25%;
+    position: right;
+
+}
+
+.half-width-1 {
+    text-emphasis-position: right;
+}
