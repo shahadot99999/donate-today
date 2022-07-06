@@ -115,7 +115,6 @@
 }
 
 .working-sector {
-    font-size: 32px;
     font-weight: bold;
     display: flex;
     margin: auto;
@@ -123,10 +122,9 @@
 
 .Family {
     width: 20%;
-    height: 20%;
+    height: 15%;
     margin-left: 5%;
-    margin-right: 5%;
-
+    padding: 0;
     background-color: aliceblue;
 }
 
