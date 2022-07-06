@@ -38,6 +38,7 @@
     font-size: 32px;
     font-weight: bold;
     display: flex;
+    justify-content: space-evenly;
     margin: auto;
 }
 
@@ -90,13 +91,23 @@
 
 }
 
-.box-specall {
-    background-color: #ff3300;
-}
+
 
 .other-amount {
     text-align: center;
+    margin-top: 20px;
 
+}
+
+#donate {
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.other-amount-1 {
+    text-align: center;
+    margin-top: 10px;
 }
 
 .working {
