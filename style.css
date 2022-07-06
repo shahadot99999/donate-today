@@ -1,0 +1,85 @@
+.donate-now {
+    text-decoration: none;
+    background-color: #d85252;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.imgage {
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.write-style {
+    text-align: center;
+}
+
+.dinate-today {
+    text-align: center;
+}
+
+.box {
+
+    font-size: 32px;
+    font-weight: bold;
+    display: flex;
+    margin: auto;
+
+}
+
+.box-border {
+
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+
+}
+
+.box-specall {
+    background-color: #ff3300;
+}
+
+.other-amount {
+    text-align: center;
+
+}
+
+.working {
+    text-align: center;
+}
+
+.working-sector {
+    font-size: 32px;
+    font-weight: bold;
+    display: flex;
+    margin: auto;
+}
+
+.Family {
+    width: 20%;
+    height: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    background-color: aliceblue;
+}
+
+.shelter {
+    width: 20%;
+    height: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    background-color: bisque;
+}
+
+.education {
+    width: 20%;
+    height: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    background-color: cornflowerblue;
+}
