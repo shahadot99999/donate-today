@@ -102,3 +102,25 @@
 .half-width-1 {
     text-emphasis-position: right;
 }
+
+.email-subscription {
+    position: absolute;
+    background-color: bisque;
+    height: 20px;
+    width: 50px;
+    text-align: center;
+}
+
+.footer-background {
+    color: black
+}
+
+.text-type {
+    color: brown;
+    text-align: center;
+}
+
+.text-paragraph {
+    color: aliceblue;
+    text-align: center;
+}
