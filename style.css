@@ -148,6 +148,7 @@
 
 .flexible-container {
     display: flex;
+    margin: 20px;
 }
 
 .half-width {
@@ -159,16 +160,6 @@
     width: 25%;
     position: right;
 
-}
-
-.flexible-container1 {
-    display: flex;
-    margin-bottom: 100px;
-}
-
-.half-width-img1 {
-    width: 5%;
-    position: left;
 }
 
 .half-width-1 {
@@ -191,18 +182,9 @@
 
 .email-boxshadow {
 
-    /* position: absolute;
-    padding: 5px;
-    background-color: bisque;
-    margin-left: -5%;
-    border-radius: 0%;
-    margin: -10px;
-    border: 50px solid green;*/
-
     padding-top: 40px;
     width: 1200px;
     height: 100px;
-
     margin: 50px;
     text-align: center;
     font-size: 32px;
