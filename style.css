@@ -183,19 +183,30 @@
 }
 
 .email-subscription {
-    width: 40px;
-    height: 20px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
     background-color: rgb(250, 165, 165);
 }
 
 .email-boxshadow {
 
-    position: absolute;
+    /* position: absolute;
     padding: 5px;
     background-color: bisque;
     margin-left: -5%;
     border-radius: 0%;
     margin: -10px;
+    border: 50px solid green;*/
+
+    padding-top: 40px;
+    width: 1200px;
+    height: 100px;
+
+    margin: 50px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
 
 }
 
